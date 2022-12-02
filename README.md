@@ -12,8 +12,11 @@ Users can list transactions about the wallet.
 Step 1: After downloading the code, running "npm install" command via terminal and downloading npm libraries
 Step 2: Running the project with the command "node server"
 Step 3: Going to "http://localhost:5005" after running the project using postman 
+There is postman collection in the files
 
 --------- For the test.js to work
 
 Step 1: Running the project with the command "node server"
 Step 2: Running the test with the command "npm run test" using second terminal
+
+
