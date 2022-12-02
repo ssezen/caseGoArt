@@ -1,4 +1,4 @@
-NodeJS API Project
+NodeJS API Project 
 
 Users can register.
 Users can add new wallets to this service. The wallet supports different currencies.
@@ -13,3 +13,7 @@ Step 1: After downloading the code, running "npm install" command via terminal a
 Step 2: Running the project with the command "node server"
 Step 3: Going to "http://localhost:5005" after running the project using postman 
 
+--------- For the test.js to work
+
+Step 1: Running the project with the command "node server"
+Step 2: Running the test with the command "npm run test" using second terminal
